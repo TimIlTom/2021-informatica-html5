@@ -1,66 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2021-02-15T11:20:47.992Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="3DBbzYHJ4FLdnXbWfjvw" version="14.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-15T11:20:53.921Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="Minhapu3j7QNCIe7l9PL" version="14.3.1" type="github">
   <diagram id="-ZIGUC2P0SDHajsnuVTR" name="Page-1">
     <mxGraphModel dx="920" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OLID3MMl3m6dL3-tlj9X-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="150" width="870" height="520" as="geometry" />
-        </mxCell>
-        <mxCell id="OLID3MMl3m6dL3-tlj9X-2" value="marconi" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="OLID3MMl3m6dL3-tlj9X-1">
-          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="OLID3MMl3m6dL3-tlj9X-3" value="https://www.marconicloud.it" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="OLID3MMl3m6dL3-tlj9X-1">
-          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="OLID3MMl3m6dL3-tlj9X-5" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="OLID3MMl3m6dL3-tlj9X-1">
-          <mxGeometry x="15" y="120" width="25" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OLID3MMl3m6dL3-tlj9X-6" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="OLID3MMl3m6dL3-tlj9X-1">
-          <mxGeometry x="90" y="220" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="OLID3MMl3m6dL3-tlj9X-7" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="OLID3MMl3m6dL3-tlj9X-1">
-          <mxGeometry x="15" y="220" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="OLID3MMl3m6dL3-tlj9X-8" value="Portale IIS Marconi Civitavecchia" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OLID3MMl3m6dL3-tlj9X-1">
-          <mxGeometry x="30" y="120" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="OLID3MMl3m6dL3-tlj9X-9" value="Servizi interni" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OLID3MMl3m6dL3-tlj9X-1">
-          <mxGeometry y="190" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="OLID3MMl3m6dL3-tlj9X-10" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="OLID3MMl3m6dL3-tlj9X-1">
-          <mxGeometry x="170" y="220" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="OLID3MMl3m6dL3-tlj9X-11" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="OLID3MMl3m6dL3-tlj9X-1">
-          <mxGeometry x="167.5" y="320" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="OLID3MMl3m6dL3-tlj9X-12" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="OLID3MMl3m6dL3-tlj9X-1">
-          <mxGeometry x="87.5" y="320" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="OLID3MMl3m6dL3-tlj9X-13" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="OLID3MMl3m6dL3-tlj9X-1">
-          <mxGeometry x="12.5" y="320" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="OLID3MMl3m6dL3-tlj9X-14" value="Servizi esterni" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OLID3MMl3m6dL3-tlj9X-1">
-          <mxGeometry y="290" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="OLID3MMl3m6dL3-tlj9X-16" value="Search" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontColor=#666666;fontSize=17;align=left;spacingLeft=3;" vertex="1" parent="OLID3MMl3m6dL3-tlj9X-1">
-          <mxGeometry x="570" y="120" width="140" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="OLID3MMl3m6dL3-tlj9X-17" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="OLID3MMl3m6dL3-tlj9X-1">
-          <mxGeometry x="677" y="175" width="140" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="OLID3MMl3m6dL3-tlj9X-18" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_protected;" vertex="1" parent="OLID3MMl3m6dL3-tlj9X-1">
-          <mxGeometry x="720" y="120" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="OLID3MMl3m6dL3-tlj9X-19" value="LOGIN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OLID3MMl3m6dL3-tlj9X-1">
-          <mxGeometry x="740" y="120" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="OLID3MMl3m6dL3-tlj9X-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/essential-21/128/Menu-128.png" vertex="1" parent="OLID3MMl3m6dL3-tlj9X-1">
-          <mxGeometry x="790" y="115" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OLID3MMl3m6dL3-tlj9X-21" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="OLID3MMl3m6dL3-tlj9X-1">
-          <mxGeometry x="830" y="120" width="20" height="20" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
