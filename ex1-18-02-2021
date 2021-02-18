@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2021-02-18T09:38:14.867Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" version="14.3.0" etag="Q3jPAkkECEvOPRcFXH8F" type="github"><diagram id="iU4muqGM4N6AuL9RMY_X">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-18T09:53:46.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="_bzwSXvlXp6N7LorCCCK" version="14.3.0" type="github">
+  <diagram id="iU4muqGM4N6AuL9RMY_X" name="Page-1">
+    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-kLEf_LQ_ZuKTQllPIe--2" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="70" width="665.79" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="-kLEf_LQ_ZuKTQllPIe--3" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="-kLEf_LQ_ZuKTQllPIe--2">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-kLEf_LQ_ZuKTQllPIe--4" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="-kLEf_LQ_ZuKTQllPIe--2">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-kLEf_LQ_ZuKTQllPIe--5" value="See the magic" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" vertex="1" parent="-kLEf_LQ_ZuKTQllPIe--2">
+          <mxGeometry x="274" y="200" width="99" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-kLEf_LQ_ZuKTQllPIe--8" value="HELLO THERE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-kLEf_LQ_ZuKTQllPIe--2">
+          <mxGeometry x="264" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-kLEf_LQ_ZuKTQllPIe--10" value="AVADAKEDAVRA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-kLEf_LQ_ZuKTQllPIe--2">
+          <mxGeometry x="264" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-kLEf_LQ_ZuKTQllPIe--17" value="SIUUUM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-kLEf_LQ_ZuKTQllPIe--2">
+          <mxGeometry x="260" y="310" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-kLEf_LQ_ZuKTQllPIe--6" value="quando viene premuro viene stampata una scritta sotto di esso" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
+          <mxGeometry x="850" y="290" width="110.00000000000001" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-kLEf_LQ_ZuKTQllPIe--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-kLEf_LQ_ZuKTQllPIe--5" target="-kLEf_LQ_ZuKTQllPIe--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-kLEf_LQ_ZuKTQllPIe--9" value="queste sono le frasi che dovranno essere stampate, solo una alla volta. Ogni frase che comparirà farà cambiare lo sfondo con un immagine" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
+          <mxGeometry x="900" y="420" width="110" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="-kLEf_LQ_ZuKTQllPIe--21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-kLEf_LQ_ZuKTQllPIe--8" target="-kLEf_LQ_ZuKTQllPIe--9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-kLEf_LQ_ZuKTQllPIe--22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-kLEf_LQ_ZuKTQllPIe--10" target="-kLEf_LQ_ZuKTQllPIe--9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-kLEf_LQ_ZuKTQllPIe--23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-kLEf_LQ_ZuKTQllPIe--17" target="-kLEf_LQ_ZuKTQllPIe--9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-kLEf_LQ_ZuKTQllPIe--24" value="questa frase metto sullo sfondo un immagine di obi wan kenobi" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
+          <mxGeometry x="10" y="260" width="110.00000000000001" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-kLEf_LQ_ZuKTQllPIe--25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="-kLEf_LQ_ZuKTQllPIe--8" target="-kLEf_LQ_ZuKTQllPIe--24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-kLEf_LQ_ZuKTQllPIe--26" value="questa frase mette come sfondo un immagine di voldemort" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
+          <mxGeometry x="10" y="355" width="110.00000000000001" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-kLEf_LQ_ZuKTQllPIe--27" value="questa frase mette come sfondo un immagine di ronaldo" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
+          <mxGeometry x="10" y="450" width="110.00000000000001" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-kLEf_LQ_ZuKTQllPIe--28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=110.00000000000001;entryDy=50;entryPerimeter=0;" edge="1" parent="1" source="-kLEf_LQ_ZuKTQllPIe--10" target="-kLEf_LQ_ZuKTQllPIe--26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-kLEf_LQ_ZuKTQllPIe--29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.713;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-kLEf_LQ_ZuKTQllPIe--17" target="-kLEf_LQ_ZuKTQllPIe--27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
