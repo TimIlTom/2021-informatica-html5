@@ -11,7 +11,7 @@ function updateView() {
     $('#text').text(characters[character]);
     $('#body').css(
         'background-image',
-        `url('see-the-magic/assets/${character}.jpg')`
+        `url('seethemagic/assets/${character}.jpg')`
     );
 }
 
