@@ -1,5 +1,8 @@
 body {
     margin: unset;
+    background-image: none;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .center {
@@ -16,4 +19,13 @@ body {
     padding: 20px;
     border-radius: 10px;
     border: unset;
+    background-color: white;
+}
+
+#magic:focus {
+    outline: none;
+}
+
+#text {
+    background-color: white;
 }
