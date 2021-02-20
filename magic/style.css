@@ -1,0 +1,31 @@
+body {
+  margin: unset;
+  background-image: none;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.center {
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#magic {
+  padding: 20px;
+  border-radius: 10px;
+  border: unset;
+  background-color: white;
+}
+
+#magic:focus {
+  outline: none;
+}
+
+#text {
+  background-color: white;
+}
