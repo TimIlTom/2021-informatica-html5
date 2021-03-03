@@ -1,12 +1,7 @@
 function load(src) {
-  return new Promise((resolve, reject) => {
+  return new Promise(resolve => {
     const image = new Image();
-
-    image.addEventListener(
-      'load', 
-      _ => resolve(image.src)
-    );
-
+    image.addEventListener('load', _ => resolve(src));
     image.src = src;
   });
 }
