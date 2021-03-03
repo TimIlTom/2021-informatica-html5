@@ -1,15 +1,11 @@
-random = {
-  current: '',
+function progressive(character, callback) {
+  load(`magic/assets/min/${character}.png`)
+  .then(image => {
+    callback(image);
 
-  nextChoice(dictionary) {
-    const keys = Object
-      .keys(dictionary)
-      .filter(key => key != this.current);
-  
-    return this.current = keys[
-      Math.floor(keys.length * Math.random())
-    ];
-  }
+    load(`magic/assets/${character}.jpeg`)
+    .then(secondImage => callback(secondImage));
+  });
 }
 
 function draw() {
@@ -23,9 +19,11 @@ function draw() {
 
   $('#text').text(characters[character]);
   $('#text').addClass('padding');
-  $('body').css(
-    'background-image',
-    `url('magic/assets/${character}.jpg')`
+  progressive(character, image => 
+    $('body').css(
+      'background-image',
+      `url('${image}')`
+    )
   );
 }
 
