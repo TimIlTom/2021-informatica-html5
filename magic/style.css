@@ -16,10 +16,16 @@ body {
 }
 
 #magic {
-  padding: 20px;
-  border-radius: 10px;
   border: unset;
-  background-color: white;
+  font-size: 5vh;
+  margin-bottom: 20px;
+  transition-duration: 2s;
+}
+
+#magic:hover {
+  background-color:  rgba(0, 0, 0, 1);
+  cursor: pointer;
+  transition-duration: 1s;
 }
 
 #magic:focus {
@@ -27,5 +33,37 @@ body {
 }
 
 #text {
-  background-color: white;
+  font-family: 'Architects Daughter', cursive;
+  font-size: 10vh;
+  animation: blink 1s forwards infinite;
+}
+
+@keyframes blink {
+  0% {
+    background-color: rgba(0, 0, 0, 0.3);
+  }
+
+  50% {
+    background-color: black;
+  }
+
+  100% {
+    background-color: rgba(0, 0, 0, 0.3);
+  }
+
+}
+
+.theme {
+  background-color: rgba(0, 0, 0, 0.3);
+  color: white;
+  
+  font-family: 'Architects Daughter', cursive;
+  font-weight: bolder;
+
+  border-radius: 20px;
+  margin: unset;
+}
+
+.padding {
+  padding: 10px 25px;
 }
