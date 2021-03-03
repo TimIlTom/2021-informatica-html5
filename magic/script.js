@@ -1,13 +1,3 @@
-function progressive(character, callback) {
-  load(`magic/assets/min/${character}.png`)
-  .then(image => {
-    callback(image);
-
-    load(`magic/assets/${character}.jpeg`)
-    .then(secondImage => callback(secondImage));
-  });
-}
-
 function draw() {
   const characters = {
     'obi-wan-kenobi': 'HELLO THERE',
@@ -19,11 +9,15 @@ function draw() {
 
   $('#text').text(characters[character]);
   $('#text').addClass('padding');
-  progressive(character, image => 
-    $('body').css(
-      'background-image',
-      `url('${image}')`
-    )
+
+  progressive([
+      `magic/assets/min/${character}.png`,
+      `magic/assets/${character}.jpeg`
+    ], image => 
+      $('body').css(
+        'background-image',
+        `url('${image}')`
+      )
   );
 }
 

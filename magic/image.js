@@ -11,3 +11,7 @@ function load(src) {
   });
 }
 
+async function progressive(images, callback) {
+  for (const image of images) 
+    await load(image).then(src => callback(src));
+}
