@@ -10,13 +10,15 @@ function draw() {
   $('#text').text(characters[character]);
   $('#text').addClass('padding');
 
-  progressive([
+  progressive(
+    [
       `magic/assets/min/${character}.png`,
       `magic/assets/${character}.jpeg`
-    ], image => 
+    ], 
+    src => 
       $('body').css(
         'background-image',
-        `url('${image}')`
+        `url('${src}')`
       )
   );
 }
